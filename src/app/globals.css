@@ -1,0 +1,34 @@
+@import "tailwindcss";
+
+/* FutureYou theme tokens (works regardless of Tailwind config) */
+:root {
+  --fy-bg: #f7faf9;
+
+  --fy-text: #0f172a;
+  --fy-muted: rgba(15, 23, 42, 0.6);
+  --fy-border: rgba(15, 23, 42, 0.08);
+
+  --fy-card: rgba(255, 255, 255, 0.75);
+
+  --fy-primary: #2bb0a6;      /* calm teal */
+  --fy-primary-hover: #249a91;
+  --fy-primary-soft: #dff5f2;
+
+  --fy-accent: #6366f1;       /* indigo */
+  --fy-accent-soft: #eef2ff;
+
+  --fy-shadow: 0 10px 30px rgba(0, 0, 0, 0.06);
+}
+
+html,
+body {
+  height: 100%;
+}
+
+body {
+  background:
+    radial-gradient(1200px 600px at 20% 0%, rgba(43, 176, 166, 0.18), transparent 60%),
+    radial-gradient(1000px 500px at 90% 10%, rgba(99, 102, 241, 0.14), transparent 55%),
+    linear-gradient(180deg, #f7faf9 0%, #ffffff 45%, #f8fafc 100%);
+  color: var(--fy-text);
+}
