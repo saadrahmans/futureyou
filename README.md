@@ -26,7 +26,29 @@ The goal of FutureYou is to create an engaging platform that helps users better 
 
 ## 📸 Screenshots
 
-Screenshots of the application will be added here.
+### 🏠 Home
+
+![FutureYou Home](screenshots/home.png.png)
+
+### 📊 Dashboard
+
+![FutureYou Dashboard](screenshots/dashboard.png.png)
+
+### 🔮 Future Simulator
+
+![FutureYou Simulator](screenshots/simulator.png.png)
+
+### 💡 Insights
+
+![FutureYou Insights](screenshots/insights.png.png)
+
+### 🎯 Action Lab
+
+![FutureYou Action Lab](screenshots/action-lab.png.png)
+
+### 📅 Timeline
+
+![FutureYou Timeline](screenshots/timeline.png.png)
 
 ## 💻 Running the Project Locally
 
